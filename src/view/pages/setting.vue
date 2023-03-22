@@ -15,9 +15,7 @@
               很感谢大家对我的支持，现已接入OpenAI的Models API、Completions API、Chat API、Audio API、Images API后续会添加更多有意思的功能进去，希望大家给我的GitHub点个小小的星星，
               大家如果有什么好的想法可以在GitHub中提出来，我们一起来完善这个页面。
             </span>
-            <div>
-              <a href="https://space.bilibili.com/326625155?spm_id_from=333.337.0.0">BliBili</a>---<a href="https://github.com/202252197/ChatGPT_JCM">GitHub</a>
-            </div>
+           
           </div>
         </transition>
       </el-main>
